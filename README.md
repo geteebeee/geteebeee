@@ -1,5 +1,5 @@
 <p align="center">
-  <b>🛠️ Profile under construction</b>
+  <b><strong>🛠️ Profile under construction</strong></b>
 </p>
 
 
