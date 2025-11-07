@@ -6,4 +6,8 @@
 <p align="center">
   <img src="https://i.redd.it/wtmbt3b82du61.jpg" width="400">
 </p>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=geteebeee&layout=compact)
+
+
+<p align="center">
+  <img src="https://github-readme-stats-red-alpha-66.vercel.app/api/top-langs/?username=geteebeee&layout=compact" />
+</p>
