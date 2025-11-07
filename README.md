@@ -9,5 +9,5 @@
 
 
 <p align="center">
-  <img src="https://github-readme-stats-red-alpha-66.vercel.app/api/top-langs/?username=geteebeee&layout=compact&exclude_repo=github-readme-stats" />
+  <img src="https://github-readme-stats-red-alpha-66.vercel.app/api/top-langs/?username=geteebeee&layout=compact&exclude_repo=github-readme-stats&v=1" />
 </p>
