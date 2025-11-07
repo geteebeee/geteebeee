@@ -6,4 +6,4 @@
 <p align="center">
   <img src="https://i.redd.it/wtmbt3b82du61.jpg" width="400">
 </p>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=geteebeee&layout=compact)
